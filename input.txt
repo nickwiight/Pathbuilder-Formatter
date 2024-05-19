@@ -1,1 +1,16 @@
+CONFIDENT DEFENSE 1a FEAT 4
+Requirements You do not have the frightened condition.
+You use your exceptional sense of self and the certainty in your hunt to avoid your enemies’ affronts. Until the start of your next turn, any Strikes your prey makes against you target your Will DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties. For example, an enemy with sneak attack would still deal extra damage to you for being flat-footed, even though you wouldn't take the –2 circumstance penalty against the attack.
+
+TERRORIZE 2a FOCUS 1
+Domain fear
+Range 30 feet; Targets 1 creature
+Defense Will
+You whip a lesser fear into a frenzied terror. The target takes 2d8 mental damage, or 2d12 mental damage if they are frightened (basic Will save). On a Critical Failure, the creature also does not reduce its frightened condition at the end of its next turn.
+
+WALL MASTER 3 FEAT 13
+CONJURATION DUNGEON EARTH MANIPULATE
+Frequency once per day
+You call forth the notoriously sturdy walls from within your true dungeon body to subject your foes to the frustration of being lost or separated in a dungeon and forced to return to the entrance. This has the effects of the wall of stone spell.
+Special This feat gains the divine trait if you have the mausoleum heritage, arcane if you have another artificial dungeon heritage (such as labyrinth or tower) or primal if you have a natural one (such as an archipelago, caverns, leviathan, or tree).
 
